@@ -1,1 +1,2 @@
 # factory-Method
+# new method
